@@ -1,3 +1,5 @@
-engines: {}
+engines:
+  rubocop:
+    enabled: false
 exclude_paths:
 - "spec/**"
